@@ -14,13 +14,11 @@
 ## 📊 My Stats
 
   <br>
-    <a href="https://github.com/johnnyhall/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=johnnyhall&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/johnnyhall/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/johnnyhall/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=johnnyhall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/johnnyhall/statistics/blob/master/generated/overview.svg)
 ![](https://github.com/johnnyhall/statistics/blob/master/generated/languages.svg)
 
 </a>
