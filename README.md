@@ -9,7 +9,7 @@
 
 - 🤖 I’m currently learning Python and JavaScript.
 
-- ✂️ Fun fact i like to swim, watch anime and play video games.
+- ✂️ I like to swim, watch anime and play video games.
 
 ## 📊 My Stats
 
