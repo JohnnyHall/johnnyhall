@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/763852202573561909/879859629872541757/Sem_Titulo-1.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://cdn.discordapp.com/attachments/763852202573561909/879861702450118757/00b.gif" width="30px">, my name is João Tápparo</h1>
+<h1 align="center">Hello <img src="https://giphy.com/stickers/Emoji-transparent-4tSHBpzJw7R3rrKUeo" width="30px">, my name is João Tápparo</h1>
 <h3 align="center">WELLCOME TO MY PROFILE</h3>
 
 ## ✋ About Me
