@@ -14,8 +14,8 @@
 ## 📊 My Stats
 
   <br>
-    <a href="https://github.com/enzoTM/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=enzoTM&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/enzoTM/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoTM&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/johnnyhall/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=johnnyhall&show_icons=true&count_private=false&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/johnnyhall/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhall&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 
 
