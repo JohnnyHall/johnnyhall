@@ -25,3 +25,5 @@
 <a href = "mailto:joaovtapparo@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
