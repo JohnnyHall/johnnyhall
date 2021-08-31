@@ -24,6 +24,7 @@
 <p align="left">
 <a href = "https://www.instagram.com/joao_tapparo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:joaovtapparo@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/joao-tapparo-46518821b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin"/></a>
 </p>
 
 ![Snake animation](https://github.com/johnnyhall/johnnyhall/blob/output/github-contribution-grid-snake.svg)
