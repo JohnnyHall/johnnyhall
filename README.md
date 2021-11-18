@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/763852202573561909/879859629872541757/Sem_Titulo-1.png" height="175px"/></a>
-
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/763852202573561909/880184518789701632/giphy.gif" width="30px">Hello<img src="https://cdn.discordapp.com/attachments/763852202573561909/880184518789701632/giphy.gif" width="30px">, my name is João Tápparo</h1>
 <h3 align="center">WELLCOME TO MY PROFILE!</h3>
 
