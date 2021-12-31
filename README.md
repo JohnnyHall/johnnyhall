@@ -3,7 +3,7 @@
 
 ## ✋ About Me
 
-- ⚡ I'm currently working my TCC.
+- ⚡ I'm currently working on my personal projects.
 
 - 🤖 I’m currently learning Python and JavaScript.
 
