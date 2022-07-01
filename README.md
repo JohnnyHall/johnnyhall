@@ -7,7 +7,7 @@
 
 - ⚡ I'm currently working on my personal projects.
 
-- 🤖 I’m currently learning Python and JavaScript.
+- 🤖 I’m currently learning JavaScript and Rest.
 
 - ✂️ I like to swim, watch anime and play video games.
 
