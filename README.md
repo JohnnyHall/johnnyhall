@@ -15,20 +15,33 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/johnnyhall/statistics/blob/master/generated/overview.svg)
+![](https://github.com/johnnyhall/statiTstics/blob/master/generated/overview.svg)
 ![](https://github.com/johnnyhall/statistics/blob/master/generated/languages.svg)
   
 </a>
 
 ## 💻 Technologies
 <p align="left">
-  <img src="https://img.icons8.com/fluent/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="42" width="42"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>
+  height="42" width="42"/>  
 </p>
 
 ## 🔗 Connect with me:
