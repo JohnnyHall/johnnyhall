@@ -22,13 +22,13 @@
 
 ## 💻 Technologies
 <p align="left">
-  <img src="https://img.icons8.com/color/344/javascript--v1.png"/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
+  <img src="https://img.icons8.com/fluent/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/.png"/>
 </p>
 
 ## 🔗 Connect with me:
