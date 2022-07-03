@@ -15,7 +15,7 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/johnnyhall/statiTstics/blob/master/generated/overview.svg)
+![](https://github.com/johnnyhall/statistics/blob/master/generated/overview.svg)
 ![](https://github.com/johnnyhall/statistics/blob/master/generated/languages.svg)
   
 </a>
