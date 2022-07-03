@@ -20,14 +20,18 @@
   
 </a>
 
-## Technologies 
+## 💻 Technologies
 <p align="left">
-<a href = "https://www.instagram.com/joao_tapparo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:joaotapparo@pm.me"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://www.linkedin.com/in/joao-tapparo-46518821b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin"/></a>
+  <img src="https://img.icons8.com/color/344/javascript--v1.png"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
 </p>
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/joao_tapparo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:joaotapparo@pm.me"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
